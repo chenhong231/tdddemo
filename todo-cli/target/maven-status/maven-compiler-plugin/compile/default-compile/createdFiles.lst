@@ -1,0 +1,4 @@
+com\tdd\todo\cli\ObjectFactory.class
+com\tdd\todo\cli\file\FileTodoItemRepository.class
+com\tdd\todo\util\Jsons.class
+com\tdd\todo\cli\TodoCommand.class

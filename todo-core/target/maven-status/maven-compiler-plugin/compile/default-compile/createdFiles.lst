@@ -1,0 +1,6 @@
+com\tdd\todo\core\TodoItem.class
+com\tdd\todo\core\TodoItemRepository.class
+com\tdd\todo\core\TodoParameter.class
+com\tdd\todo\core\TodoIndexParameter.class
+com\tdd\todo\core\TodoException.class
+com\tdd\todo\core\TodoItemService.class
