@@ -12,6 +12,9 @@
         <module>todo-api</module>
         <module>java8inaction</module>
         <module>agile</module>
+        <module>legacycode</module>
+        <module>refactoring</module>
+        <module>tdd-guide</module>
     </modules>
     <name>demo</name>
     <description>Demo project for Spring Boot</description>
