@@ -1,4 +1,4 @@
-package com.refactoring.chapter1;
+package com.refactoring.chapter1.before;
 
 import java.util.Enumeration;
 import java.util.Vector;

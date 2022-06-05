@@ -1,4 +1,4 @@
-package com.refactoring.chapter1;
+package com.refactoring.chapter1.before;
 
 public class Movie {
 

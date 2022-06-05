@@ -1,4 +1,4 @@
-package com.refactoring.chapter1;
+package com.refactoring.chapter1.before;
 
 abstract class Price {
     abstract int getPriceCode();
