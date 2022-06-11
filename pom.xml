@@ -15,6 +15,8 @@
         <module>legacycode</module>
         <module>refactoring</module>
         <module>tdd-guide</module>
+        <module>refactoring2pattern</module>
+        <module>approvaltest</module>
     </modules>
     <name>demo</name>
     <description>Demo project for Spring Boot</description>

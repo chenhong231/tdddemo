@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/agile/agile.iml" filepath="$PROJECT_DIR$/agile/agile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/approvaltest/approvaltest.iml" filepath="$PROJECT_DIR$/approvaltest/approvaltest.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8inaction/java8inaction.iml" filepath="$PROJECT_DIR$/java8inaction/java8inaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/legacycode/legacycode.iml" filepath="$PROJECT_DIR$/legacycode/legacycode.iml" />
       <module fileurl="file://$PROJECT_DIR$/refactoring/refactoring.iml" filepath="$PROJECT_DIR$/refactoring/refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactoring2pattern/refactoring2pattern.iml" filepath="$PROJECT_DIR$/refactoring2pattern/refactoring2pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/tdd.iml" filepath="$PROJECT_DIR$/tdd.iml" />
       <module fileurl="file://$PROJECT_DIR$/tdd-guide/tdd-guide.iml" filepath="$PROJECT_DIR$/tdd-guide/tdd-guide.iml" />
       <module fileurl="file://$PROJECT_DIR$/todo-api/todo-api.iml" filepath="$PROJECT_DIR$/todo-api/todo-api.iml" />
