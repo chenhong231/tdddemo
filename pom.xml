@@ -17,6 +17,7 @@
         <module>tdd-guide</module>
         <module>refactoring2pattern</module>
         <module>approvaltest</module>
+        <module>codingdojo</module>
     </modules>
     <name>demo</name>
     <description>Demo project for Spring Boot</description>

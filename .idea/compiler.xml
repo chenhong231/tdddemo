@@ -14,6 +14,7 @@
         <module name="refactoring" />
         <module name="todo-cli" />
         <module name="agile" />
+        <module name="codingdojo" />
         <module name="approvaltest" />
         <module name="java8inaction" />
         <module name="legacycode" />
@@ -22,6 +23,7 @@
     <bytecodeTargetLevel>
       <module name="agile" target="1.8" />
       <module name="approvaltest" target="8" />
+      <module name="codingdojo" target="8" />
       <module name="java8inaction" target="1.8" />
       <module name="legacycode" target="8" />
       <module name="refactoring" target="8" />

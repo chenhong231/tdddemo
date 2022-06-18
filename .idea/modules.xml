@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/agile/agile.iml" filepath="$PROJECT_DIR$/agile/agile.iml" />
       <module fileurl="file://$PROJECT_DIR$/approvaltest/approvaltest.iml" filepath="$PROJECT_DIR$/approvaltest/approvaltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codingdojo/codingdojo.iml" filepath="$PROJECT_DIR$/codingdojo/codingdojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8inaction/java8inaction.iml" filepath="$PROJECT_DIR$/java8inaction/java8inaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/legacycode/legacycode.iml" filepath="$PROJECT_DIR$/legacycode/legacycode.iml" />
       <module fileurl="file://$PROJECT_DIR$/refactoring/refactoring.iml" filepath="$PROJECT_DIR$/refactoring/refactoring.iml" />
