@@ -18,6 +18,13 @@
         <module>refactoring2pattern</module>
         <module>approvaltest</module>
         <module>codingdojo</module>
+        <module>refactoring2pattern/chainconstructors</module>
+        <module>refactoring2pattern/encapsulateclasseswithfactory</module>
+        <module>refactoring2pattern/polymorphiccreationwithfactorymethod</module>
+        <module>refactoring2pattern/replaceconstructorswithcreationmethods</module>
+        <module>refactoring2pattern/chapter6.1</module>
+        <module>refactoring2pattern/chapter6.2</module>
+        <module>refactoring2pattern/chapter6.3</module>
     </modules>
     <name>demo</name>
     <description>Demo project for Spring Boot</description>

@@ -1,0 +1,12 @@
+com\legacycode\chapter10\undetectableside\after\DetailFrame.class
+com\legacycode\chapter6\sproutmethod\model\Entry.class
+com\legacycode\chapter6\wrapmethod\model\Timecard.class
+com\legacycode\chapter10\undetectableside\before\DetailFrame.class
+com\legacycode\chapter10\undetectableside\after\TestingAccountDetailFrame.class
+com\legacycode\chapter6\wrapmethod\before\Employee.class
+com\legacycode\chapter10\undetectableside\after\AccountDetailFrame.class
+com\legacycode\chapter6\wrapmethod\model\Money.class
+com\legacycode\chapter10\undetectableside\before\AccountDetailFrame.class
+com\legacycode\chapter6\sproutmethod\before\TransactionGate.class
+com\legacycode\chapter6\sproutmethod\after\TransactionGate.class
+com\legacycode\chapter6\wrapmethod\after\Employee.class

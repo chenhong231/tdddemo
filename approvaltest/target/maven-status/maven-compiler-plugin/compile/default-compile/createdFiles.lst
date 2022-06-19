@@ -1,4 +1,8 @@
-com\gildedrose\after\GildedRose.class
+com\gildedrose\after\Sulfuras.class
+com\gildedrose\after\BackstagePass.class
+com\gildedrose\after\AgedBrie.class
 com\gildedrose\after\Item.class
+org\samples\Person.class
+com\gildedrose\after\GildedRose.class
 com\gildedrose\before\GildedRose.class
 com\gildedrose\before\Item.class

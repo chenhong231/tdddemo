@@ -13,8 +13,20 @@
     <file url="file://$PROJECT_DIR$/legacycode/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/refactoring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/refactoring/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/refactoring2pattern/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/refactoring2pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/chainconstructors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/chainconstructors/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/chapter6.1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/chapter6.1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/chapter6.2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/chapter6.2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/chapter6.4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/chapter6.4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/encapsulateclasseswithfactory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/encapsulateclasseswithfactory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/polymorphiccreationwithfactorymethod/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/polymorphiccreationwithfactorymethod/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/replaceconstructorswithcreationmethods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/refactoring2pattern/replaceconstructorswithcreationmethods/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tdd-guide/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tdd-guide/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/todo-api/src/main/java" charset="UTF-8" />

@@ -4,11 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/agile/agile.iml" filepath="$PROJECT_DIR$/agile/agile.iml" />
       <module fileurl="file://$PROJECT_DIR$/approvaltest/approvaltest.iml" filepath="$PROJECT_DIR$/approvaltest/approvaltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactoring2pattern/chainconstructors/chainconstructors.iml" filepath="$PROJECT_DIR$/refactoring2pattern/chainconstructors/chainconstructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactoring2pattern/chapter6.1/chapter6.1.iml" filepath="$PROJECT_DIR$/refactoring2pattern/chapter6.1/chapter6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactoring2pattern/chapter6.2/chapter6.2.iml" filepath="$PROJECT_DIR$/refactoring2pattern/chapter6.2/chapter6.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactoring2pattern/chapter6.3/chapter6.4.iml" filepath="$PROJECT_DIR$/refactoring2pattern/chapter6.3/chapter6.4.iml" />
       <module fileurl="file://$PROJECT_DIR$/codingdojo/codingdojo.iml" filepath="$PROJECT_DIR$/codingdojo/codingdojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactoring2pattern/encapsulateclasseswithfactory/encapsulateclasseswithfactory.iml" filepath="$PROJECT_DIR$/refactoring2pattern/encapsulateclasseswithfactory/encapsulateclasseswithfactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8inaction/java8inaction.iml" filepath="$PROJECT_DIR$/java8inaction/java8inaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/legacycode/legacycode.iml" filepath="$PROJECT_DIR$/legacycode/legacycode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactoring2pattern/polymorphiccreationwithfactorymethod/polymorphiccreationwithfactorymethod.iml" filepath="$PROJECT_DIR$/refactoring2pattern/polymorphiccreationwithfactorymethod/polymorphiccreationwithfactorymethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/refactoring/refactoring.iml" filepath="$PROJECT_DIR$/refactoring/refactoring.iml" />
       <module fileurl="file://$PROJECT_DIR$/refactoring2pattern/refactoring2pattern.iml" filepath="$PROJECT_DIR$/refactoring2pattern/refactoring2pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refactoring2pattern/replaceconstructorswithcreationmethods/replaceconstructorswithcreationmethods.iml" filepath="$PROJECT_DIR$/refactoring2pattern/replaceconstructorswithcreationmethods/replaceconstructorswithcreationmethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/tdd.iml" filepath="$PROJECT_DIR$/tdd.iml" />
       <module fileurl="file://$PROJECT_DIR$/tdd-guide/tdd-guide.iml" filepath="$PROJECT_DIR$/tdd-guide/tdd-guide.iml" />
       <module fileurl="file://$PROJECT_DIR$/todo-api/todo-api.iml" filepath="$PROJECT_DIR$/todo-api/todo-api.iml" />

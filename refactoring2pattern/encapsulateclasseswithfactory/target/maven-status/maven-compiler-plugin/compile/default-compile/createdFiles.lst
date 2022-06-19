@@ -1,0 +1,6 @@
+com\descritpors\BooleanDescriptor.class
+com\descritpors\AttributeDescriptor.class
+com\domain\User.class
+com\descritpors\ReferenceDescriptor.class
+com\mapper\DescriptorMapper.class
+com\descritpors\DefaultDescriptor.class
